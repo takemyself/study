@@ -1,0 +1,1 @@
+clone之后切断远程关系，才能提交到自己的git上，命令：git remote remove origin
